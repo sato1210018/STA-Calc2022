@@ -9,7 +9,7 @@ let W = 0;
 let WS = 0;
 let Y = 0;
 let Pr = 0;
-let BR;
+let BR = "BEAR：";
 
 function onClick1() {
     if (Pare == 0) {
